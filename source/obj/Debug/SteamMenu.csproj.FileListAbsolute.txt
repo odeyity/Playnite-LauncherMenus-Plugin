@@ -1,0 +1,17 @@
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\extension.yaml
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\Localization\en_US.xaml
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\icon.png
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\SteamMenu.dll
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\SteamMenu.pdb
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\Playnite.SDK.dll
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\bin\Debug\Playnite.SDK.xml
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu.csproj.AssemblyReference.cache
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\App.baml
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenuSettingsView.baml
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenuSettingsView.g.cs
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu_MarkupCompile.cache
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu.g.resources
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu.csproj.CoreCompileInputs.cache
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu.csproj.Up2Date
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu.dll
+C:\Users\noahd\Code\Playnite Plugins\SteamMenu\obj\Debug\SteamMenu.pdb
