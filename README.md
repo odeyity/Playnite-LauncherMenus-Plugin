@@ -1,6 +1,6 @@
 <img src="icon.png" width="64" height="64"></img>
 # Playnite-LauncherMenus-Plugin
-<a href="https://playnite.link/addons.html"><img src="buttons/install.png" width="90" height="50"></img></a>
+<a href="https://playnite.link/addons.html#LauncherMenus_626f6c31-eac9-421b-bd20-82381da4dde8"><img src="buttons/install.png" width="90" height="50"></img></a>
 <a href="https://github.com/odeyity/Playnite-LauncherMenus-Plugin/releases/download/1.0.0/LauncherMenus_626f6c31-eac9-421b-bd20-82381da4dde8_1_0_0.pext"><img src="buttons/download.png" width="90" height="50"></img></a>
 
 A C# plugin that simply adds top panel buttons to access the Steam and Epic Games menus<br>
