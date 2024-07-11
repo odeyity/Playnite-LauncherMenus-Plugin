@@ -1,0 +1,17 @@
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\extension.yaml
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\Localization\en_US.xaml
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\icon.png
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\LauncherMenus.dll
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\LauncherMenus.pdb
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\Playnite.SDK.dll
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\bin\Debug\Playnite.SDK.xml
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenus.csproj.AssemblyReference.cache
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\App.baml
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenusSettingsView.baml
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenusSettingsView.g.cs
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenus_MarkupCompile.cache
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenus.g.resources
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenus.csproj.CoreCompileInputs.cache
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\Launcher.436C05FD.Up2Date
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenus.dll
+C:\Users\noahd\Code\Playnite Plugins\LauncherMenus\obj\Debug\LauncherMenus.pdb
