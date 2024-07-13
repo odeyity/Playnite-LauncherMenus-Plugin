@@ -6,7 +6,7 @@
 A C# plugin that simply adds top panel buttons to access the Steam and Epic Games menus<br>
 #
 ❓ Support:<br>
-<a href="https://github.com/odeyity/Playnite-SteamMenu-Plugin/issues/new">Create an issue</a><br>
+<a href="https://github.com/odeyity/Playnite-LauncherMenus-Plugin/issues/new">Create an issue</a><br>
 <a href="https://discord.gg/BrtABqe">Playnite Discord</a>
 
 #
